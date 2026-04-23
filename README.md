@@ -1,12 +1,12 @@
-\# 📊 Bank Marketing Campaign Analysis: Identifying High-Response Customer Segments using Excel
+\ 📊 Bank Marketing Campaign Analysis: Identifying High-Response Customer Segments using Excel
 
 
 
-\---
+\
 
 
 
-\## 📌 Project Overview
+\ 📌 Project Overview
 
 
 
@@ -18,11 +18,11 @@ The goal is to improve campaign effectiveness by understanding customer behavior
 
 
 
-\---
+\
 
 
 
-\## ❗ Problem Statement
+\❗ Problem Statement
 
 
 
@@ -36,11 +36,11 @@ This project aims to analyze customer data and identify high-response segments t
 
 
 
-\---
+\
 
 
 
-\## 🎯 Objective
+\ 🎯 Objective
 
 
 
@@ -52,11 +52,11 @@ This project aims to analyze customer data and identify high-response segments t
 
 
 
-\---
+\
 
 
 
-\## 🛠 Tools \& Techniques Used
+\ 🛠 Tools \& Techniques Used
 
 
 
@@ -76,11 +76,11 @@ This project aims to analyze customer data and identify high-response segments t
 
 
 
-\---
+\
 
 
 
-\## 📂 Dataset Information
+\ 📂 Dataset Information
 
 
 
@@ -106,15 +106,15 @@ The dataset includes the following features:
 
 
 
-\---
+\
 
 
 
-\## 📊 Data Analysis \& Insights
+\ 📊 Data Analysis \& Insights
 
 
 
-\### 📌 Job vs Response
+\ 📌 Job vs Response
 
 
 
@@ -132,11 +132,11 @@ In contrast, segments like blue-collar have high customer volume but relatively 
 
 
 
-\---
+\
 
 
 
-\### 📌 Age Group vs Response
+\ 📌 Age Group vs Response
 
 
 
@@ -152,11 +152,11 @@ However, higher age groups (7, 8, and 9) show better response efficiency, sugges
 
 
 
-\---
+\
 
 
 
-\### 📌 Education vs Response
+\ 📌 Education vs Response
 
 
 
@@ -174,11 +174,11 @@ In contrast, primary and unknown education segments exhibit lower response rates
 
 
 
-\---
+\
 
 
 
-\### 📌 Contact Type vs Response
+\ 📌 Contact Type vs Response
 
 
 
@@ -194,11 +194,11 @@ In contrast, the unknown contact category shows significantly lower response rat
 
 
 
-\---
+\
 
 
 
-\### 📌 Month vs Response
+\ 📌 Month vs Response
 
 
 
@@ -216,11 +216,11 @@ This highlights the importance of campaign timing.
 
 
 
-\---
+\
 
 
 
-\### 📌 Previous Outcome vs Response
+\ 📌 Previous Outcome vs Response
 
 
 
@@ -236,11 +236,11 @@ In contrast, customers with unknown or failed previous outcomes exhibit lower re
 
 
 
-\---
+\
 
 
 
-\## ✅ Key Findings
+\ ✅ Key Findings
 
 
 
@@ -258,11 +258,11 @@ In contrast, customers with unknown or failed previous outcomes exhibit lower re
 
 
 
-\---
+\
 
 
 
-\## 🚀 Business Recommendations
+\ 🚀 Business Recommendations
 
 
 
@@ -278,11 +278,11 @@ In contrast, customers with unknown or failed previous outcomes exhibit lower re
 
 
 
-\---
+\
 
 
 
-\## 📁 Project Files
+\ 📁 Project Files
 
 
 
@@ -292,11 +292,11 @@ In contrast, customers with unknown or failed previous outcomes exhibit lower re
 
 
 
-\---
+\
 
 
 
-\## 💡 Skills Demonstrated
+\ 💡 Skills Demonstrated
 
 
 
@@ -312,11 +312,11 @@ In contrast, customers with unknown or failed previous outcomes exhibit lower re
 
 
 
-\---
+\
 
 
 
-\## 📌 Conclusion
+\ 📌 Conclusion
 
 
 
@@ -326,7 +326,7 @@ By identifying high-response customer segments, the bank can significantly impro
 
 
 
-\---
+\
 
 
 
